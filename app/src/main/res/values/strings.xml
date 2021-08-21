@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spider-3rdTask</string>
+    <string name="Upload">Upload</string>
+    <string name="Home">Home</string>
+    <string name="leftarrow1"><![CDATA[<]]></string>
+    <string name="rightarrow1"><![CDATA[>]]></string>
+    <string name="leftarrow2"><![CDATA[<]]></string>
+    <string name="rightarrow2"><![CDATA[>]]></string>
+    <string name="leftarrow3"><![CDATA[<]]></string>
+    <string name="rightarrow3"><![CDATA[>]]></string>
+    <string name="leftarrow4"><![CDATA[<]]></string>
+    <string name="rightarrow4"><![CDATA[>]]></string>
+    <string name="home_page1">HOME PAGE</string>
+    <string name="leftarrow5"><![CDATA[<]]></string>
+    <string name="rightarrow5"><![CDATA[>]]></string>
+    <string name="home_page2">HOME PAGE</string>
+    <string name="leftarrow6"><![CDATA[<]]></string>
+    <string name="home_page6">HOME PAGE</string>
+    <string name="exit">Exit</string>
+</resources>
